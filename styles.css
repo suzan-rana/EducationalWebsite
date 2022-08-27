@@ -19,6 +19,7 @@ img {
 }
 
 body {
+    overflow-x: hidden;
     min-height: 0 !important;
     
 }
