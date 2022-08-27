@@ -19,6 +19,7 @@ img {
 }
 
 body {
+    overflow-x: hidden;
     min-height: 0 !important;
     
 }
@@ -58,6 +59,7 @@ header {
 
 /* menu bar ========= */
 .nav--list {
+    overflow-x: hidden;
     position: absolute;
     top: 0px;
     right: 0px;
